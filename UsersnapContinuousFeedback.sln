@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Web
-Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "UssersnapContinuousFeedback", "UssersnapContinuousFeedback\UssersnapContinuousFeedback.ccproj", "{CCB6CC90-5CDF-49A5-A853-60AAD724A369}"
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "UsersnapContinuousFeedback", "UsersnapContinuousFeedback\UsersnapContinuousFeedback.ccproj", "{CCB6CC90-5CDF-49A5-A853-60AAD724A369}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersnapCFTwitterService", "UsersnapCFTwitterService\UsersnapCFTwitterService.csproj", "{185D976D-9917-440F-8D48-131D76D7BD9D}"
 EndProject

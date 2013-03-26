@@ -8,10 +8,10 @@
     <ProjectGuid>ccb6cc90-5cdf-49a5-a853-60aad724a369</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UssersnapContinuousFeedback</RootNamespace>
-    <AssemblyName>UssersnapContinuousFeedback</AssemblyName>
+    <RootNamespace>UsersnapContinuousFeedback</RootNamespace>
+    <AssemblyName>UsersnapContinuousFeedback</AssemblyName>
     <StartDevelopmentStorage>True</StartDevelopmentStorage>
-    <Name>UssersnapContinuousFeedback</Name>
+    <Name>UsersnapContinuousFeedback</Name>
     <SccProjectName>SAK</SccProjectName>
     <SccProvider>SAK</SccProvider>
     <SccAuxPath>SAK</SccAuxPath>
