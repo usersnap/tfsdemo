@@ -6,18 +6,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersnapCFTwitterService", "UsersnapCFTwitterService\UsersnapCFTwitterService.csproj", "{185D976D-9917-440F-8D48-131D76D7BD9D}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://usersnaptest.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = UsersnapCFTwitterService\\UsersnapCFTwitterService.csproj
-		SccProjectName1 = UsersnapCFTwitterService
-		SccLocalPath1 = UsersnapCFTwitterService
-		SccProjectUniqueName2 = UssersnapContinuousFeedback\\UssersnapContinuousFeedback.ccproj
-		SccProjectName2 = UssersnapContinuousFeedback
-		SccLocalPath2 = UssersnapContinuousFeedback
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
