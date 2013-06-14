@@ -15,7 +15,7 @@ namespace UsersnapCFTwitterService
         public UsersnapResponse GetUsersnapTweets(UsersnapRequest req)
         {
             //%23pope
-            TweetStreamer streamer = TweetStreamer.getInstance("?q=usersnap&rpp=10&include_entities=true&with_twitter_user_id=true&result_type=recent", 100);
+            TweetStreamer streamer = TweetStreamer.getInstance("?q=usersnap&count=10&with_twitter_user_id=true&include_entities=true&result_type=recent", 100);
             //TweetStreamer streamer = TweetStreamer.getInstance("?q=\"Pope+Benedict+XVI\"&rpp=10&include_entities=true&with_twitter_user_id=true&result_type=recent", 100);
             List<Tweet> list = streamer.getTweets(req.FromIdx);
             UsersnapResponse res = new UsersnapResponse();
